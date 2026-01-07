@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Om Patel>`
-- **CCID:** `<ovpatel>`
+- **Full Name:** `Om Patel`
+- **CCID:** `ovpatel`
 
 ## References and Resources
 N/A
@@ -13,5 +13,4 @@ List any resources used here, or simply put `N/A` if not applicable.
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+| `N/A` | `N/A`  |
